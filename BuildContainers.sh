@@ -4,9 +4,8 @@
 #                                                                            #
 # Script to build the Docker containers within this directory.               #
 # Be sure to run this script within its native directory!                    #
-#									     #
-# Please check out the offical configuration guide for further information   #
-# github.com/sealingtech/EDCOP-Containers                                    #
+#									                                                           #
+# Please check out the offical configuration guide for more information      #
 # ========================================================================== #
 sudo docker build -t elasticsearch ./Elasticsearch
 
